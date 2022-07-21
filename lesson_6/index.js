@@ -1,19 +1,11 @@
 /**
  * Scrimba
- * React without CDNs
- * 
- * Note -- I'm still using CDNs for my local setup.
+ * Custom Compenents
  */
 
 // import React from "react";
 // import { ReactDOM } from "react-dom";
 
-/**
-Challenge: fix our code!
-
-Don't forget, you're not using CDNs anymore, so there's no
-global "ReactDOM" variable to use anymore.
- */
 
 const page = (
     <div>

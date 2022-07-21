@@ -1,3 +1,8 @@
+/**
+ * Scrimba
+ * Project 1 - markup
+ */
+
 // import React from "react";
 // import { ReactDOM } from "react-dom";
 
@@ -31,5 +36,3 @@ const page = (
 );
 
 ReactDOM.render(page, document.getElementById('root'));
-
-// pulled from Scrimba
