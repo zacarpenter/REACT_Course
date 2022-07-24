@@ -1,6 +1,6 @@
 /**
  * Scrimba
- * Project
+ * Project 1 - Part 2
 
 Challenge: Project setup
 
