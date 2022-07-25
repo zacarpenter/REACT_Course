@@ -1,11 +1,10 @@
 // import React from 'react';
-// import { ReactDOM } from 'react-dom';
-import Main from './components/Main';
 import Navbar from './components/Navbar';
+import Main from './components/Main';
 
 export default function App() {
     return (
-        <div className="container">
+        <div className='container'>
             <Navbar />
             <Main />
         </div>
